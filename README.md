@@ -1,21 +1,33 @@
-# Hi there, I'm Yash Choudhary! 👋
+Hi, I'm Yash Choudhary! 👋
+I’m a Frontend & Full-Stack Developer with about 5 years of experience building dynamic and responsive web applications. I’m passionate about modern JavaScript frameworks and I love creating beautiful, functional user interfaces that provide a great user experience.
 
-## About Me
-I'm a passionate Frontend Developer with 3 years of experience in building dynamic and responsive web applications. My expertise lies in modern JavaScript frameworks, and I love creating beautiful and functional user interfaces.
+My goal is always to write clean, maintainable code while staying curious about the latest shifts in the tech landscape.
 
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning MERN
-- ⚡ Fun fact: I have a collection of unfinished side projects that could rival a library. One day, they'll all be finished... probably! 📚😂
+🛠️ Languages & Tools
+I specialize in the React ecosystem but enjoy working across the entire stack. Here’s a snapshot of my typical toolkit:
 
-## Languages and Tools:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+Frontend: JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS.
 
-<!---
-yash7707/yash7707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend: Node.js, Express (currently building with the MERN stack).
+
+Database: MongoDB.
+
+Dev Tools: Git, GitHub, VS Code, and Agile workflows.
+
+🌱 What I’m Working On
+Mastering the MERN Stack: I’m currently deepening my expertise in full-stack development to build more robust, end-to-end applications.
+
+Performance & Accessibility: I’m focused on making web applications faster and more inclusive for everyone.
+
+Continuous Growth: I’m always looking for new challenges and technologies to add to my skill set.
+
+🤝 Let's Connect!
+I’m always open to discussing new projects, collaborating on open-source work, or just chatting about the latest in web development.
+
+💬 Ask me about: React, Frontend architecture, or CSS styling.
+
+/*📫 Reach me at: [YourEmail@example.com]
+
+ 💼 LinkedIn: [Your LinkedIn Profile Link]
+
+🌐 Portfolio: [Your Portfolio Link]*/
