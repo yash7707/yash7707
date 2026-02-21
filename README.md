@@ -1,33 +1,64 @@
-Hi, I'm Yash Choudhary! 👋
-I’m a Frontend & Full-Stack Developer with about 5 years of experience building dynamic and responsive web applications. I’m passionate about modern JavaScript frameworks and I love creating beautiful, functional user interfaces that provide a great user experience.
+<div align="center">
 
-My goal is always to write clean, maintainable code while staying curious about the latest shifts in the tech landscape.
+# 👋 Hi, I’m **Yash Choudhary**
+### Frontend & Full-Stack Developer • 5+ Years Experience
 
-🛠️ Languages & Tools
-I specialize in the React ecosystem but enjoy working across the entire stack. Here’s a snapshot of my typical toolkit:
+<!--
+[LinkedIn]
+[Portfolio]
+[Email]
+-->
 
-Frontend: JavaScript (ES6+), React, HTML5, CSS3, Tailwind CSS.
+</div>
 
-Backend: Node.js, Express (currently building with the MERN stack).
+---
 
-Database: MongoDB.
+## 🧠 About Me
 
-Dev Tools: Git, GitHub, VS Code, and Agile workflows.
+I build **scalable, high-performance web applications** with a strong focus on **UX, clean architecture, and maintainable code**.
 
-🌱 What I’m Working On
-Mastering the MERN Stack: I’m currently deepening my expertise in full-stack development to build more robust, end-to-end applications.
+With **5+ years of experience**, I work across modern frontend systems, **MERN stack**, and API-driven architectures — optimizing for **performance, clarity, and long-term scalability**.
 
-Performance & Accessibility: I’m focused on making web applications faster and more inclusive for everyone.
+---
 
-Continuous Growth: I’m always looking for new challenges and technologies to add to my skill set.
+## ⚡ Tech Stack
 
-🤝 Let's Connect!
-I’m always open to discussing new projects, collaborating on open-source work, or just chatting about the latest in web development.
+**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, VS Code, Postman  
 
-💬 Ask me about: React, Frontend architecture, or CSS styling.
+---
 
-/*📫 Reach me at: [YourEmail@example.com]
+## 🎯 Current Focus
 
- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- Advanced **MERN architecture**
+- **React performance** & design patterns
+- Backend & **system design fundamentals**
 
-🌐 Portfolio: [Your Portfolio Link]*/
+---
+
+## 🚀 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yash7707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash7707&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+> GitHub for me is an **engineering logbook** — clarity, consistency, and real-world problem solving.
+
+---
+
+## 🤝 Open To
+
+- Frontend / Full-Stack roles  
+- Freelance & contract work  
+- Architecture & system design discussions  
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ & clean code by Yash Choudhary</sub>
+</div>
