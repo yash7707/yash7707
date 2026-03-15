@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I’m **Yash Choudhary**
-### Frontend & Full-Stack Developer • 5+ Years Experience
+### Frontend & Full-Stack Developer • Around 5 Years Experience
 
 <!--
 [LinkedIn]
